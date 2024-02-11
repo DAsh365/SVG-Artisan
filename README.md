@@ -59,7 +59,7 @@ To use SVG Artisan, follow these steps:
     - Select a shape from the available options: circle, square, triangle.
     - Enter the shape color (keyword or hexadecimal).
 
-4. After providing input, the application will generate an SVG file named `logo.svg` in the `output` folder.
+4. After providing input, the application will generate an SVG file named `logo.svg` in the current working directory.
 
 ## Demo Video
 
