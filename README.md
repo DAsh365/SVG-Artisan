@@ -63,7 +63,7 @@ To use SVG Artisan, follow these steps:
 
 ## Demo Video
 
-[Watch Demo Video](#)
+[Watch Demo Video](https://drive.google.com/file/d/1w8aupM7mELwQs3iOxxzEtR9S9JbnaZML/view?usp=drive_link)
 
 ## Contributing
 
